@@ -1,0 +1,19 @@
+/*.man-container{
+    display: inline-block;
+    margin: 10px;
+}
+    
+.post-componenet {
+    width: 400px;
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: #f0f0f0;
+    padding: 15px;
+    border: 1px solid #434040;   
+}
+*/
+
+.post-componenet{
+    background-color: blueviolet;
+    
+}
